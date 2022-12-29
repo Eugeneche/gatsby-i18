@@ -11,24 +11,19 @@
     "react-helmet": "^6.1.0"
   },
   "peerDependencies": {
-    "gatsby": "^4.0.0",
+    "gatsby": "^5.3.3",
     "gatsby-plugin-react-helmet": "^5.0.0",
-    "react": "^17.0.0",
-    "react-dom": "^17.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "react-helmet": "^6.1.0"
   },
   "keywords": [
-    "i18n",
-    "gatsby-theme",
-    "gatsby",
-    "gatsby-plugin"
   ],
   "repository": {
     "type": "git",
-    "directory": "packages/gatsby-theme-i18n",
-    "url": "https://github.com/gatsbyjs/themes.git"
+    "url": "git+https://github.com/Eugeneche/gatsby-theme-i18n.git"
   },
-  "homepage": "https://github.com/gatsbyjs/themes/tree/master/packages/gatsby-theme-i18n#readme",
+  "homepage": "https://github.com/Eugeneche/gatsby-theme-i18n.git",
   "engines": {
     "node": ">=14.15.0"
   }
