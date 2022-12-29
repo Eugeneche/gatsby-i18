@@ -7,8 +7,6 @@
   "description": "A Gatsby theme for providing internationalization support to your Gatsby site by taking in a configuration file and creating prefixed, enriched pages for each language.",
   "license": "MIT",
   "devDependencies": {
-    "gatsby-plugin-react-helmet": "^5.3.0",
-    "react-helmet": "^6.1.0"
   },
   "peerDependencies": {
     "gatsby": "^5.3.3",
